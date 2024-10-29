@@ -7,6 +7,9 @@ Este projeto é um site para agendamento de visitas, desenvolvido com PHP, JavaS
 - **admin/**: Contém arquivos PHP para a administração do site.
 - **config.php**: Arquivo de configuração central.
 - **index.html**: Página inicial do site.
+- **images/**: Contém imagens e ícones utilizados no site.
+  - `logo.png`: Logotipo do site.
+  - `icon.png`: Ícone do site.
 - **pages/**: Contém páginas HTML do site.
   - **public/**: Páginas acessíveis por todos.
     - `about.html`: Página sobre a empresa.
